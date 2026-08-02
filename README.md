@@ -29,8 +29,6 @@ This project aims to:
 | `03_official_discrepancy.ipynb` | Comparison of field observations with official reports to identify inconsistencies and reporting gaps. |
 | `04_impact_assessment.ipynb` | Analysis of the effects of water accessibility challenges on communities and overall service delivery. |
 
-> **Note:** If your notebook filenames differ, update the references above to match your project.
-
 ---
 
 ## Key Questions
@@ -73,7 +71,7 @@ Before running the notebooks, ensure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/maji-ndogo-water-access-analysis.git
+git clone https://github.com/vincent-kiptoo/maji-ndogo-water-access-analysis.git
 ```
 
 2. Navigate to the project directory:
@@ -136,9 +134,5 @@ Potential enhancements include:
 - Developing predictive models to forecast infrastructure failures.
 - Automating the data pipeline using Python.
 - Deploying an interactive web dashboard.
-
----
-
-## License
 
 This project is intended for educational and portfolio purposes.
